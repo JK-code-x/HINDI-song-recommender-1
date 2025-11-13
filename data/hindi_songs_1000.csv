@@ -1,0 +1,981 @@
+title,artist,genre,mood,language
+Tum Hi Ho,Arijit Singh,Romantic,Sad,Hindi
+Ae Dil Hai Mushkil,Arijit Singh,Romantic,Emotional,Hindi
+Raabta,Arijit Singh,Romantic,Romantic,Hindi
+Gerua,Arijit Singh,Bollywood,Happy,Hindi
+Kabira,Arijit Singh,Bollywood,Melancholic,Hindi
+Pehli Baar,Arijit Singh,Romantic,Romantic,Hindi
+Suno Na,Arijit Singh,Romantic,Sad,Hindi
+Nazm Nazm,Arijit Singh,Romantic,Romantic,Hindi
+Ek Mulaqat,Arijit Singh,Romantic,Emotional,Hindi
+Aaj Phir Tumpe,Arijit Singh,Romantic,Emotional,Hindi
+Samjhawan,Arijit Singh,Romantic,Romantic,Hindi
+Dil Diyan Gallan,Arijit Singh,Romantic,Romantic,Hindi
+Daftar,Arijit Singh,Romantic,Sad,Hindi
+Qadam Qadam,Arijit Singh,Inspirational,Inspirational,Hindi
+Besabriyaan,Arijit Singh,Romantic,Sad,Hindi
+Fitoor,Arijit Singh,Romantic,Emotional,Hindi
+Aayat,Arijit Singh,Sufi,Spiritual,Hindi
+Sanam,Arijit Singh,Romantic,Romantic,Hindi
+Khalas,Arijit Singh,Romantic,Sad,Hindi
+Dil Diya,Arijit Singh,Romantic,Romantic,Hindi
+Bekhudi,Arijit Singh,Romantic,Emotional,Hindi
+Phir Le Aya Dil,Arijit Singh,Romantic,Romantic,Hindi
+Bulleya,Arijit Singh,Sufi,Spiritual,Hindi
+Lambiyaan Si Judayiyaan,Arijit Singh,Romantic,Sad,Hindi
+Apna Bana Le,Arijit Singh,Romantic,Romantic,Hindi
+Maula Mere,Arijit Singh,Sufi,Spiritual,Hindi
+Hawayein,Arijit Singh,Romantic,Romantic,Hindi
+Damadum,Arijit Singh,Bollywood,Energetic,Hindi
+Marjani,Arijit Singh,Romantic,Romantic,Hindi
+Gazab Ka Hai Ye Din,Arijit Singh,Romantic,Happy,Hindi
+Song 1,Akhil Sachdeva,Romantic,Sad,Hindi
+Song 2,Panjabi MC,Inspirational,Philosophical,Hindi
+Song 3,Arijit Singh,Pop,Romantic,Hindi
+Song 4,Pritam,Devotional,Energetic,Hindi
+Song 5,Tushar Raj,Pop,Melancholic,Hindi
+Song 6,Akhil Sachdeva,Bollywood,Happy,Hindi
+Song 7,Sonu Nigam,Punjabi,Happy,Hindi
+Song 8,Tushar Raj,Ghazal,Melancholic,Hindi
+Song 9,Atif Aslam,Punjabi,Emotional,Hindi
+Song 10,Jubin Nautiyal,Punjabi,Emotional,Hindi
+Song 11,Ash King,Ghazal,Happy,Hindi
+Song 12,Kishore Kumar,Devotional,Emotional,Hindi
+Song 13,Guri,Bollywood,Melancholic,Hindi
+Song 14,Malhar,Ghazal,Philosophical,Hindi
+Song 15,Mukesh,Romantic,Melancholic,Hindi
+Song 16,Mohammed Rafi,Punjabi,Romantic,Hindi
+Song 17,Sonu Nigam,Punjabi,Sad,Hindi
+Song 18,Rahat Fateh Ali Khan,Sufi,Energetic,Hindi
+Song 19,Akhil Sachdeva,Sufi,Sad,Hindi
+Song 20,Akhil Sachdeva,Devotional,Sad,Hindi
+Song 21,Daler Mehndi,Patriotic,Melancholic,Hindi
+Song 22,Rahat Fateh Ali Khan,Devotional,Philosophical,Hindi
+Song 23,Daler Mehndi,Romantic,Spiritual,Hindi
+Song 24,Ek Villain,Bollywood,Philosophical,Hindi
+Song 25,Madhubala,Patriotic,Peaceful,Hindi
+Song 26,Sanjay Leela Bhansali,Inspirational,Happy,Hindi
+Song 27,Kumar Sanu,Inspirational,Emotional,Hindi
+Song 28,Jagjit Singh,Patriotic,Peaceful,Hindi
+Song 29,Asha Parekh,Punjabi,Spiritual,Hindi
+Song 30,Lata Mangeshkar,Folk,Philosophical,Hindi
+Song 31,Rahat Fateh Ali Khan,Romantic,Peaceful,Hindi
+Song 32,Daler Mehndi,Sufi,Melancholic,Hindi
+Song 33,Akshay Kumar,Romantic,Energetic,Hindi
+Song 34,Abhijeet,Folk,Peaceful,Hindi
+Song 35,Sonu Nigam,Folk,Happy,Hindi
+Song 36,Ek Villain,Punjabi,Energetic,Hindi
+Song 37,Guri,Ghazal,Peaceful,Hindi
+Song 38,Kadir Ali,Patriotic,Melancholic,Hindi
+Song 39,Kumar Sanu,Ghazal,Emotional,Hindi
+Song 40,Hrithik Roshan,Sufi,Peaceful,Hindi
+Song 41,Madhubala,Romantic,Happy,Hindi
+Song 42,Rahat Fateh Ali Khan,Patriotic,Philosophical,Hindi
+Song 43,Sanjay Leela Bhansali,Folk,Romantic,Hindi
+Song 44,B Praak,Pop,Melancholic,Hindi
+Song 45,Akhil Sachdeva,Pop,Melancholic,Hindi
+Song 46,Daler Mehndi,Devotional,Emotional,Hindi
+Song 47,Jubin Nautiyal,Sufi,Emotional,Hindi
+Song 48,Arijit Singh,Punjabi,Spiritual,Hindi
+Song 49,Mohammed Rafi,Punjabi,Sad,Hindi
+Song 50,Tushar Raj,Pop,Spiritual,Hindi
+Song 51,Asha Parekh,Folk,Melancholic,Hindi
+Song 52,Sidhu Moose Wala,Sufi,Melancholic,Hindi
+Song 53,Mohammed Rafi,Punjabi,Sad,Hindi
+Song 54,Malhar,Ghazal,Spiritual,Hindi
+Song 55,Sidhu Moose Wala,Bollywood,Romantic,Hindi
+Song 56,Mohammed Rafi,Ghazal,Melancholic,Hindi
+Song 57,Akshay Kumar,Devotional,Philosophical,Hindi
+Song 58,Jubin Nautiyal,Sufi,Melancholic,Hindi
+Song 59,A.R. Rahman,Bollywood,Energetic,Hindi
+Song 60,Udit Narayan,Romantic,Happy,Hindi
+Song 61,Ek Villain,Folk,Spiritual,Hindi
+Song 62,Guri,Inspirational,Spiritual,Hindi
+Song 63,Abhijeet,Ghazal,Spiritual,Hindi
+Song 64,Kishore Kumar,Inspirational,Philosophical,Hindi
+Song 65,Panjabi MC,Sufi,Energetic,Hindi
+Song 66,Pritam,Bollywood,Energetic,Hindi
+Song 67,Akshay Kumar,Patriotic,Philosophical,Hindi
+Song 68,Mohammed Rafi,Folk,Philosophical,Hindi
+Song 69,A.R. Rahman,Ghazal,Spiritual,Hindi
+Song 70,Tushar Raj,Inspirational,Happy,Hindi
+Song 71,Ranbir Kapoor,Sufi,Happy,Hindi
+Song 72,Asha Parekh,Punjabi,Emotional,Hindi
+Song 73,B Praak,Patriotic,Romantic,Hindi
+Song 74,Tushar Raj,Punjabi,Philosophical,Hindi
+Song 75,A.R. Rahman,Bollywood,Melancholic,Hindi
+Song 76,Panjabi MC,Patriotic,Sad,Hindi
+Song 77,Atif Aslam,Patriotic,Melancholic,Hindi
+Song 78,Hrithik Roshan,Devotional,Happy,Hindi
+Song 79,Jubin Nautiyal,Inspirational,Philosophical,Hindi
+Song 80,Ash King,Inspirational,Energetic,Hindi
+Song 81,Neha Kakkar,Sufi,Peaceful,Hindi
+Song 82,Mohammed Rafi,Sufi,Sad,Hindi
+Song 83,Panjabi MC,Pop,Philosophical,Hindi
+Song 84,Sidhu Moose Wala,Folk,Emotional,Hindi
+Song 85,Tushar Raj,Patriotic,Sad,Hindi
+Song 86,Deepika Padukone,Bollywood,Sad,Hindi
+Song 87,Jagjit Singh,Bollywood,Energetic,Hindi
+Song 88,A.R. Rahman,Patriotic,Energetic,Hindi
+Song 89,Hrithik Roshan,Patriotic,Philosophical,Hindi
+Song 90,Rahat Fateh Ali Khan,Bollywood,Philosophical,Hindi
+Song 91,Atif Aslam,Patriotic,Romantic,Hindi
+Song 92,Guri,Patriotic,Romantic,Hindi
+Song 93,Jagjit Singh,Folk,Emotional,Hindi
+Song 94,Kishore Kumar,Patriotic,Philosophical,Hindi
+Song 95,Kadir Ali,Ghazal,Sad,Hindi
+Song 96,Atif Aslam,Bollywood,Spiritual,Hindi
+Song 97,Pritam,Punjabi,Happy,Hindi
+Song 98,Lata Mangeshkar,Folk,Spiritual,Hindi
+Song 99,Sanjay Leela Bhansali,Patriotic,Energetic,Hindi
+Song 100,Badshah,Patriotic,Romantic,Hindi
+Song 101,Ranbir Kapoor,Patriotic,Spiritual,Hindi
+Song 102,Hrithik Roshan,Romantic,Energetic,Hindi
+Song 103,A.R. Rahman,Pop,Melancholic,Hindi
+Song 104,Arijit Singh,Ghazal,Sad,Hindi
+Song 105,Shreya Ghoshal,Folk,Happy,Hindi
+Song 106,B Praak,Romantic,Energetic,Hindi
+Song 107,Panjabi MC,Devotional,Happy,Hindi
+Song 108,Badshah,Devotional,Peaceful,Hindi
+Song 109,Kadir Ali,Patriotic,Romantic,Hindi
+Song 110,Arijit Singh,Devotional,Melancholic,Hindi
+Song 111,Sanjay Leela Bhansali,Folk,Peaceful,Hindi
+Song 112,B Praak,Inspirational,Energetic,Hindi
+Song 113,Akshay Kumar,Punjabi,Sad,Hindi
+Song 114,Udit Narayan,Punjabi,Emotional,Hindi
+Song 115,Sonu Nigam,Devotional,Emotional,Hindi
+Song 116,Abhijeet,Sufi,Spiritual,Hindi
+Song 117,Mohammed Rafi,Pop,Spiritual,Hindi
+Song 118,Badshah,Romantic,Peaceful,Hindi
+Song 119,Neha Kakkar,Romantic,Spiritual,Hindi
+Song 120,Pritam,Romantic,Emotional,Hindi
+Song 121,Sonu Nigam,Bollywood,Spiritual,Hindi
+Song 122,Tushar Raj,Romantic,Energetic,Hindi
+Song 123,Ranbir Kapoor,Pop,Spiritual,Hindi
+Song 124,Deepika Padukone,Bollywood,Philosophical,Hindi
+Song 125,Madhubala,Sufi,Peaceful,Hindi
+Song 126,Sanjay Leela Bhansali,Devotional,Sad,Hindi
+Song 127,Kadir Ali,Ghazal,Peaceful,Hindi
+Song 128,Lata Mangeshkar,Folk,Philosophical,Hindi
+Song 129,Sidhu Moose Wala,Devotional,Romantic,Hindi
+Song 130,Sonu Nigam,Ghazal,Sad,Hindi
+Song 131,Arijit Singh,Punjabi,Romantic,Hindi
+Song 132,B Praak,Pop,Spiritual,Hindi
+Song 133,Kishore Kumar,Bollywood,Melancholic,Hindi
+Song 134,Ranbir Kapoor,Pop,Emotional,Hindi
+Song 135,Atif Aslam,Inspirational,Spiritual,Hindi
+Song 136,Lata Mangeshkar,Bollywood,Peaceful,Hindi
+Song 137,Mukesh,Folk,Melancholic,Hindi
+Song 138,Kadir Ali,Inspirational,Sad,Hindi
+Song 139,Malhar,Folk,Peaceful,Hindi
+Song 140,Hrithik Roshan,Folk,Sad,Hindi
+Song 141,Mukesh,Devotional,Emotional,Hindi
+Song 142,Sidhu Moose Wala,Inspirational,Energetic,Hindi
+Song 143,Hrithik Roshan,Bollywood,Spiritual,Hindi
+Song 144,B Praak,Ghazal,Emotional,Hindi
+Song 145,Kadir Ali,Folk,Philosophical,Hindi
+Song 146,Sidhu Moose Wala,Devotional,Emotional,Hindi
+Song 147,Rahat Fateh Ali Khan,Patriotic,Sad,Hindi
+Song 148,Neha Kakkar,Folk,Melancholic,Hindi
+Song 149,Mukesh,Inspirational,Sad,Hindi
+Song 150,B Praak,Bollywood,Romantic,Hindi
+Song 151,Malhar,Ghazal,Romantic,Hindi
+Song 152,Akhil Sachdeva,Pop,Melancholic,Hindi
+Song 153,Kishore Kumar,Sufi,Emotional,Hindi
+Song 154,Sidhu Moose Wala,Punjabi,Romantic,Hindi
+Song 155,Arijit Singh,Bollywood,Romantic,Hindi
+Song 156,Sonu Nigam,Sufi,Spiritual,Hindi
+Song 157,Pritam,Bollywood,Sad,Hindi
+Song 158,Kadir Ali,Sufi,Spiritual,Hindi
+Song 159,Asha Parekh,Patriotic,Spiritual,Hindi
+Song 160,Panjabi MC,Punjabi,Spiritual,Hindi
+Song 161,Jubin Nautiyal,Inspirational,Philosophical,Hindi
+Song 162,Jagjit Singh,Devotional,Romantic,Hindi
+Song 163,Akhil Sachdeva,Sufi,Spiritual,Hindi
+Song 164,Mukesh,Devotional,Happy,Hindi
+Song 165,A.R. Rahman,Bollywood,Energetic,Hindi
+Song 166,B Praak,Patriotic,Philosophical,Hindi
+Song 167,Sonu Nigam,Romantic,Romantic,Hindi
+Song 168,Malhar,Patriotic,Melancholic,Hindi
+Song 169,Madhubala,Romantic,Sad,Hindi
+Song 170,Panjabi MC,Ghazal,Emotional,Hindi
+Song 171,Neha Kakkar,Punjabi,Spiritual,Hindi
+Song 172,Mukesh,Inspirational,Philosophical,Hindi
+Song 173,Tushar Raj,Sufi,Melancholic,Hindi
+Song 174,Sanjay Leela Bhansali,Ghazal,Romantic,Hindi
+Song 175,Jagjit Singh,Patriotic,Sad,Hindi
+Song 176,A.R. Rahman,Folk,Emotional,Hindi
+Song 177,Atif Aslam,Patriotic,Happy,Hindi
+Song 178,Lata Mangeshkar,Ghazal,Sad,Hindi
+Song 179,Mohammed Rafi,Inspirational,Spiritual,Hindi
+Song 180,Asha Parekh,Pop,Philosophical,Hindi
+Song 181,B Praak,Sufi,Energetic,Hindi
+Song 182,Udit Narayan,Sufi,Melancholic,Hindi
+Song 183,Deepika Padukone,Punjabi,Happy,Hindi
+Song 184,Sanjay Leela Bhansali,Punjabi,Melancholic,Hindi
+Song 185,Mohammed Rafi,Ghazal,Romantic,Hindi
+Song 186,Kumar Sanu,Sufi,Spiritual,Hindi
+Song 187,A.R. Rahman,Inspirational,Emotional,Hindi
+Song 188,Pritam,Inspirational,Philosophical,Hindi
+Song 189,Kumar Sanu,Bollywood,Spiritual,Hindi
+Song 190,Lata Mangeshkar,Patriotic,Happy,Hindi
+Song 191,Kumar Sanu,Romantic,Philosophical,Hindi
+Song 192,Akhil Sachdeva,Bollywood,Spiritual,Hindi
+Song 193,Akshay Kumar,Romantic,Romantic,Hindi
+Song 194,Lata Mangeshkar,Romantic,Emotional,Hindi
+Song 195,Guri,Romantic,Happy,Hindi
+Song 196,Udit Narayan,Sufi,Emotional,Hindi
+Song 197,Hrithik Roshan,Ghazal,Spiritual,Hindi
+Song 198,Deepika Padukone,Patriotic,Emotional,Hindi
+Song 199,Ek Villain,Ghazal,Spiritual,Hindi
+Song 200,B Praak,Folk,Energetic,Hindi
+Song 201,Mohammed Rafi,Devotional,Energetic,Hindi
+Song 202,Akhil Sachdeva,Bollywood,Happy,Hindi
+Song 203,Kumar Sanu,Folk,Happy,Hindi
+Song 204,Ash King,Folk,Happy,Hindi
+Song 205,Kumar Sanu,Sufi,Happy,Hindi
+Song 206,Sanjay Leela Bhansali,Pop,Emotional,Hindi
+Song 207,Abhijeet,Pop,Sad,Hindi
+Song 208,Daler Mehndi,Romantic,Philosophical,Hindi
+Song 209,B Praak,Romantic,Happy,Hindi
+Song 210,Lata Mangeshkar,Bollywood,Energetic,Hindi
+Song 211,Sanjay Leela Bhansali,Pop,Spiritual,Hindi
+Song 212,Malhar,Ghazal,Romantic,Hindi
+Song 213,Udit Narayan,Romantic,Spiritual,Hindi
+Song 214,Rahat Fateh Ali Khan,Pop,Happy,Hindi
+Song 215,Ash King,Patriotic,Happy,Hindi
+Song 216,Guri,Pop,Spiritual,Hindi
+Song 217,Malhar,Devotional,Emotional,Hindi
+Song 218,Arijit Singh,Devotional,Happy,Hindi
+Song 219,Daler Mehndi,Bollywood,Romantic,Hindi
+Song 220,Ek Villain,Pop,Melancholic,Hindi
+Song 221,Mukesh,Folk,Energetic,Hindi
+Song 222,Ek Villain,Ghazal,Romantic,Hindi
+Song 223,Hrithik Roshan,Patriotic,Melancholic,Hindi
+Song 224,Sonu Nigam,Devotional,Sad,Hindi
+Song 225,Atif Aslam,Folk,Romantic,Hindi
+Song 226,Guri,Devotional,Philosophical,Hindi
+Song 227,Malhar,Patriotic,Peaceful,Hindi
+Song 228,Malhar,Pop,Peaceful,Hindi
+Song 229,Rahat Fateh Ali Khan,Folk,Spiritual,Hindi
+Song 230,Kumar Sanu,Bollywood,Peaceful,Hindi
+Song 231,Badshah,Inspirational,Energetic,Hindi
+Song 232,Jubin Nautiyal,Pop,Happy,Hindi
+Song 233,Sanjay Leela Bhansali,Romantic,Philosophical,Hindi
+Song 234,Arijit Singh,Ghazal,Emotional,Hindi
+Song 235,Panjabi MC,Romantic,Emotional,Hindi
+Song 236,Mukesh,Romantic,Emotional,Hindi
+Song 237,Ash King,Sufi,Spiritual,Hindi
+Song 238,Ranbir Kapoor,Romantic,Spiritual,Hindi
+Song 239,Kishore Kumar,Sufi,Peaceful,Hindi
+Song 240,Madhubala,Romantic,Energetic,Hindi
+Song 241,Ek Villain,Punjabi,Emotional,Hindi
+Song 242,Sanjay Leela Bhansali,Ghazal,Romantic,Hindi
+Song 243,Sidhu Moose Wala,Devotional,Peaceful,Hindi
+Song 244,Tushar Raj,Pop,Peaceful,Hindi
+Song 245,B Praak,Ghazal,Romantic,Hindi
+Song 246,Abhijeet,Inspirational,Energetic,Hindi
+Song 247,Jagjit Singh,Punjabi,Philosophical,Hindi
+Song 248,Mukesh,Pop,Peaceful,Hindi
+Song 249,Abhijeet,Inspirational,Energetic,Hindi
+Song 250,Ranbir Kapoor,Punjabi,Emotional,Hindi
+Song 251,Rahat Fateh Ali Khan,Folk,Spiritual,Hindi
+Song 252,Badshah,Bollywood,Philosophical,Hindi
+Song 253,Akshay Kumar,Devotional,Peaceful,Hindi
+Song 254,Udit Narayan,Romantic,Philosophical,Hindi
+Song 255,Abhijeet,Bollywood,Peaceful,Hindi
+Song 256,Lata Mangeshkar,Inspirational,Happy,Hindi
+Song 257,Panjabi MC,Ghazal,Sad,Hindi
+Song 258,Madhubala,Sufi,Energetic,Hindi
+Song 259,Udit Narayan,Ghazal,Emotional,Hindi
+Song 260,Atif Aslam,Bollywood,Peaceful,Hindi
+Song 261,Kishore Kumar,Sufi,Sad,Hindi
+Song 262,Ek Villain,Sufi,Energetic,Hindi
+Song 263,Tushar Raj,Devotional,Happy,Hindi
+Song 264,Asha Parekh,Pop,Melancholic,Hindi
+Song 265,B Praak,Punjabi,Sad,Hindi
+Song 266,Daler Mehndi,Patriotic,Sad,Hindi
+Song 267,B Praak,Sufi,Sad,Hindi
+Song 268,Kumar Sanu,Pop,Romantic,Hindi
+Song 269,Sonu Nigam,Bollywood,Spiritual,Hindi
+Song 270,Kumar Sanu,Inspirational,Spiritual,Hindi
+Song 271,Sonu Nigam,Patriotic,Romantic,Hindi
+Song 272,Rahat Fateh Ali Khan,Ghazal,Philosophical,Hindi
+Song 273,Pritam,Punjabi,Sad,Hindi
+Song 274,Daler Mehndi,Ghazal,Sad,Hindi
+Song 275,Udit Narayan,Devotional,Philosophical,Hindi
+Song 276,Udit Narayan,Ghazal,Emotional,Hindi
+Song 277,Guri,Sufi,Sad,Hindi
+Song 278,Hrithik Roshan,Pop,Energetic,Hindi
+Song 279,Arijit Singh,Inspirational,Romantic,Hindi
+Song 280,Arijit Singh,Punjabi,Energetic,Hindi
+Song 281,Mukesh,Patriotic,Happy,Hindi
+Song 282,Panjabi MC,Devotional,Melancholic,Hindi
+Song 283,B Praak,Patriotic,Romantic,Hindi
+Song 284,Shreya Ghoshal,Sufi,Melancholic,Hindi
+Song 285,A.R. Rahman,Devotional,Emotional,Hindi
+Song 286,Sidhu Moose Wala,Pop,Peaceful,Hindi
+Song 287,Badshah,Sufi,Emotional,Hindi
+Song 288,Asha Parekh,Ghazal,Peaceful,Hindi
+Song 289,Deepika Padukone,Bollywood,Emotional,Hindi
+Song 290,Sonu Nigam,Punjabi,Sad,Hindi
+Song 291,Kishore Kumar,Punjabi,Melancholic,Hindi
+Song 292,Lata Mangeshkar,Sufi,Energetic,Hindi
+Song 293,Mohammed Rafi,Devotional,Romantic,Hindi
+Song 294,Neha Kakkar,Patriotic,Peaceful,Hindi
+Song 295,Kadir Ali,Inspirational,Energetic,Hindi
+Song 296,Ek Villain,Devotional,Emotional,Hindi
+Song 297,Jagjit Singh,Ghazal,Spiritual,Hindi
+Song 298,Akhil Sachdeva,Folk,Sad,Hindi
+Song 299,B Praak,Romantic,Sad,Hindi
+Song 300,Panjabi MC,Folk,Romantic,Hindi
+Song 301,Jubin Nautiyal,Folk,Melancholic,Hindi
+Song 302,Akhil Sachdeva,Punjabi,Energetic,Hindi
+Song 303,Atif Aslam,Punjabi,Spiritual,Hindi
+Song 304,Kadir Ali,Romantic,Philosophical,Hindi
+Song 305,Akshay Kumar,Inspirational,Spiritual,Hindi
+Song 306,Deepika Padukone,Pop,Energetic,Hindi
+Song 307,Mukesh,Patriotic,Emotional,Hindi
+Song 308,Badshah,Pop,Melancholic,Hindi
+Song 309,Asha Parekh,Sufi,Romantic,Hindi
+Song 310,Arijit Singh,Inspirational,Sad,Hindi
+Song 311,A.R. Rahman,Romantic,Happy,Hindi
+Song 312,Sidhu Moose Wala,Sufi,Sad,Hindi
+Song 313,Panjabi MC,Sufi,Happy,Hindi
+Song 314,Udit Narayan,Pop,Spiritual,Hindi
+Song 315,Mohammed Rafi,Bollywood,Romantic,Hindi
+Song 316,Deepika Padukone,Inspirational,Emotional,Hindi
+Song 317,Pritam,Folk,Romantic,Hindi
+Song 318,Atif Aslam,Devotional,Philosophical,Hindi
+Song 319,Hrithik Roshan,Inspirational,Philosophical,Hindi
+Song 320,Daler Mehndi,Ghazal,Happy,Hindi
+Song 321,Sidhu Moose Wala,Patriotic,Emotional,Hindi
+Song 322,A.R. Rahman,Inspirational,Emotional,Hindi
+Song 323,Neha Kakkar,Folk,Romantic,Hindi
+Song 324,Kadir Ali,Romantic,Energetic,Hindi
+Song 325,Neha Kakkar,Pop,Spiritual,Hindi
+Song 326,Abhijeet,Patriotic,Romantic,Hindi
+Song 327,Sidhu Moose Wala,Ghazal,Romantic,Hindi
+Song 328,Kumar Sanu,Folk,Spiritual,Hindi
+Song 329,Abhijeet,Patriotic,Emotional,Hindi
+Song 330,Rahat Fateh Ali Khan,Ghazal,Philosophical,Hindi
+Song 331,Guri,Inspirational,Peaceful,Hindi
+Song 332,Sidhu Moose Wala,Ghazal,Energetic,Hindi
+Song 333,Abhijeet,Patriotic,Happy,Hindi
+Song 334,Arijit Singh,Bollywood,Energetic,Hindi
+Song 335,B Praak,Bollywood,Melancholic,Hindi
+Song 336,Jagjit Singh,Ghazal,Romantic,Hindi
+Song 337,Kadir Ali,Bollywood,Spiritual,Hindi
+Song 338,Sonu Nigam,Romantic,Spiritual,Hindi
+Song 339,Malhar,Patriotic,Energetic,Hindi
+Song 340,Tushar Raj,Punjabi,Happy,Hindi
+Song 341,Guri,Punjabi,Philosophical,Hindi
+Song 342,B Praak,Inspirational,Melancholic,Hindi
+Song 343,Daler Mehndi,Patriotic,Spiritual,Hindi
+Song 344,Shreya Ghoshal,Bollywood,Happy,Hindi
+Song 345,Akshay Kumar,Pop,Happy,Hindi
+Song 346,Kishore Kumar,Folk,Philosophical,Hindi
+Song 347,Sonu Nigam,Devotional,Sad,Hindi
+Song 348,B Praak,Inspirational,Romantic,Hindi
+Song 349,Jubin Nautiyal,Sufi,Emotional,Hindi
+Song 350,Abhijeet,Punjabi,Spiritual,Hindi
+Song 351,Panjabi MC,Folk,Philosophical,Hindi
+Song 352,Hrithik Roshan,Bollywood,Peaceful,Hindi
+Song 353,A.R. Rahman,Sufi,Peaceful,Hindi
+Song 354,Sonu Nigam,Patriotic,Happy,Hindi
+Song 355,Atif Aslam,Inspirational,Spiritual,Hindi
+Song 356,Pritam,Sufi,Sad,Hindi
+Song 357,Ek Villain,Patriotic,Peaceful,Hindi
+Song 358,Sonu Nigam,Romantic,Romantic,Hindi
+Song 359,Deepika Padukone,Sufi,Philosophical,Hindi
+Song 360,Malhar,Punjabi,Energetic,Hindi
+Song 361,Abhijeet,Punjabi,Spiritual,Hindi
+Song 362,Kumar Sanu,Bollywood,Emotional,Hindi
+Song 363,Pritam,Pop,Energetic,Hindi
+Song 364,A.R. Rahman,Patriotic,Philosophical,Hindi
+Song 365,Atif Aslam,Devotional,Melancholic,Hindi
+Song 366,Daler Mehndi,Patriotic,Philosophical,Hindi
+Song 367,Daler Mehndi,Punjabi,Emotional,Hindi
+Song 368,Hrithik Roshan,Ghazal,Romantic,Hindi
+Song 369,Ranbir Kapoor,Patriotic,Melancholic,Hindi
+Song 370,Arijit Singh,Romantic,Energetic,Hindi
+Song 371,A.R. Rahman,Inspirational,Emotional,Hindi
+Song 372,Ash King,Inspirational,Melancholic,Hindi
+Song 373,Shreya Ghoshal,Romantic,Emotional,Hindi
+Song 374,Jubin Nautiyal,Devotional,Emotional,Hindi
+Song 375,Akhil Sachdeva,Ghazal,Peaceful,Hindi
+Song 376,Malhar,Patriotic,Melancholic,Hindi
+Song 377,Hrithik Roshan,Ghazal,Philosophical,Hindi
+Song 378,Jagjit Singh,Pop,Energetic,Hindi
+Song 379,Mohammed Rafi,Bollywood,Sad,Hindi
+Song 380,Hrithik Roshan,Folk,Spiritual,Hindi
+Song 381,Ek Villain,Sufi,Emotional,Hindi
+Song 382,Ranbir Kapoor,Bollywood,Peaceful,Hindi
+Song 383,Arijit Singh,Devotional,Philosophical,Hindi
+Song 384,Sidhu Moose Wala,Bollywood,Melancholic,Hindi
+Song 385,Kadir Ali,Pop,Philosophical,Hindi
+Song 386,Badshah,Patriotic,Energetic,Hindi
+Song 387,Jagjit Singh,Folk,Spiritual,Hindi
+Song 388,Deepika Padukone,Bollywood,Peaceful,Hindi
+Song 389,Jubin Nautiyal,Folk,Energetic,Hindi
+Song 390,Lata Mangeshkar,Sufi,Spiritual,Hindi
+Song 391,Arijit Singh,Patriotic,Spiritual,Hindi
+Song 392,Jagjit Singh,Ghazal,Melancholic,Hindi
+Song 393,Pritam,Patriotic,Sad,Hindi
+Song 394,Pritam,Bollywood,Sad,Hindi
+Song 395,Kishore Kumar,Folk,Peaceful,Hindi
+Song 396,Kumar Sanu,Patriotic,Peaceful,Hindi
+Song 397,Pritam,Patriotic,Melancholic,Hindi
+Song 398,Mukesh,Folk,Emotional,Hindi
+Song 399,Guri,Bollywood,Peaceful,Hindi
+Song 400,Tushar Raj,Punjabi,Philosophical,Hindi
+Song 401,A.R. Rahman,Folk,Peaceful,Hindi
+Song 402,Sanjay Leela Bhansali,Folk,Peaceful,Hindi
+Song 403,Deepika Padukone,Devotional,Happy,Hindi
+Song 404,Panjabi MC,Romantic,Emotional,Hindi
+Song 405,Jubin Nautiyal,Punjabi,Happy,Hindi
+Song 406,Guri,Inspirational,Sad,Hindi
+Song 407,Malhar,Sufi,Emotional,Hindi
+Song 408,Kumar Sanu,Sufi,Happy,Hindi
+Song 409,Kadir Ali,Pop,Peaceful,Hindi
+Song 410,Mukesh,Patriotic,Romantic,Hindi
+Song 411,Madhubala,Ghazal,Melancholic,Hindi
+Song 412,Ranbir Kapoor,Folk,Philosophical,Hindi
+Song 413,Rahat Fateh Ali Khan,Devotional,Spiritual,Hindi
+Song 414,Ek Villain,Romantic,Sad,Hindi
+Song 415,Sidhu Moose Wala,Inspirational,Romantic,Hindi
+Song 416,Sonu Nigam,Ghazal,Spiritual,Hindi
+Song 417,Ash King,Ghazal,Philosophical,Hindi
+Song 418,B Praak,Punjabi,Emotional,Hindi
+Song 419,Hrithik Roshan,Ghazal,Spiritual,Hindi
+Song 420,Asha Parekh,Punjabi,Philosophical,Hindi
+Song 421,Atif Aslam,Devotional,Energetic,Hindi
+Song 422,Arijit Singh,Inspirational,Philosophical,Hindi
+Song 423,Kishore Kumar,Sufi,Romantic,Hindi
+Song 424,Atif Aslam,Ghazal,Sad,Hindi
+Song 425,Arijit Singh,Punjabi,Spiritual,Hindi
+Song 426,Guri,Ghazal,Melancholic,Hindi
+Song 427,Jubin Nautiyal,Pop,Sad,Hindi
+Song 428,B Praak,Romantic,Philosophical,Hindi
+Song 429,Tushar Raj,Pop,Sad,Hindi
+Song 430,Shreya Ghoshal,Devotional,Happy,Hindi
+Song 431,Abhijeet,Sufi,Emotional,Hindi
+Song 432,Deepika Padukone,Patriotic,Energetic,Hindi
+Song 433,Malhar,Folk,Happy,Hindi
+Song 434,Akhil Sachdeva,Ghazal,Spiritual,Hindi
+Song 435,Neha Kakkar,Pop,Melancholic,Hindi
+Song 436,Mukesh,Inspirational,Spiritual,Hindi
+Song 437,Arijit Singh,Inspirational,Emotional,Hindi
+Song 438,Guri,Inspirational,Spiritual,Hindi
+Song 439,Sonu Nigam,Ghazal,Romantic,Hindi
+Song 440,Kumar Sanu,Bollywood,Emotional,Hindi
+Song 441,Shreya Ghoshal,Bollywood,Philosophical,Hindi
+Song 442,Madhubala,Punjabi,Happy,Hindi
+Song 443,Guri,Inspirational,Romantic,Hindi
+Song 444,Udit Narayan,Sufi,Sad,Hindi
+Song 445,Lata Mangeshkar,Pop,Spiritual,Hindi
+Song 446,Kadir Ali,Sufi,Happy,Hindi
+Song 447,Asha Parekh,Pop,Spiritual,Hindi
+Song 448,Lata Mangeshkar,Inspirational,Philosophical,Hindi
+Song 449,Kadir Ali,Bollywood,Emotional,Hindi
+Song 450,Sonu Nigam,Folk,Happy,Hindi
+Song 451,Malhar,Devotional,Sad,Hindi
+Song 452,Jubin Nautiyal,Inspirational,Energetic,Hindi
+Song 453,Abhijeet,Punjabi,Melancholic,Hindi
+Song 454,Guri,Patriotic,Happy,Hindi
+Song 455,Ranbir Kapoor,Inspirational,Peaceful,Hindi
+Song 456,Mohammed Rafi,Patriotic,Romantic,Hindi
+Song 457,Abhijeet,Pop,Sad,Hindi
+Song 458,Rahat Fateh Ali Khan,Romantic,Emotional,Hindi
+Song 459,Jagjit Singh,Folk,Philosophical,Hindi
+Song 460,Mohammed Rafi,Sufi,Sad,Hindi
+Song 461,Mohammed Rafi,Patriotic,Melancholic,Hindi
+Song 462,Kumar Sanu,Pop,Emotional,Hindi
+Song 463,Sonu Nigam,Ghazal,Peaceful,Hindi
+Song 464,Daler Mehndi,Pop,Sad,Hindi
+Song 465,Asha Parekh,Bollywood,Happy,Hindi
+Song 466,Jubin Nautiyal,Ghazal,Romantic,Hindi
+Song 467,Badshah,Sufi,Energetic,Hindi
+Song 468,Akhil Sachdeva,Ghazal,Romantic,Hindi
+Song 469,Hrithik Roshan,Ghazal,Sad,Hindi
+Song 470,Panjabi MC,Sufi,Sad,Hindi
+Song 471,Mohammed Rafi,Punjabi,Philosophical,Hindi
+Song 472,Shreya Ghoshal,Inspirational,Sad,Hindi
+Song 473,Sanjay Leela Bhansali,Folk,Melancholic,Hindi
+Song 474,Deepika Padukone,Punjabi,Happy,Hindi
+Song 475,Akhil Sachdeva,Romantic,Melancholic,Hindi
+Song 476,Atif Aslam,Sufi,Energetic,Hindi
+Song 477,Hrithik Roshan,Patriotic,Happy,Hindi
+Song 478,Panjabi MC,Bollywood,Sad,Hindi
+Song 479,Sidhu Moose Wala,Punjabi,Spiritual,Hindi
+Song 480,Atif Aslam,Bollywood,Sad,Hindi
+Song 481,Abhijeet,Ghazal,Energetic,Hindi
+Song 482,Hrithik Roshan,Inspirational,Energetic,Hindi
+Song 483,Udit Narayan,Sufi,Spiritual,Hindi
+Song 484,Mohammed Rafi,Patriotic,Happy,Hindi
+Song 485,Ek Villain,Bollywood,Spiritual,Hindi
+Song 486,Atif Aslam,Sufi,Spiritual,Hindi
+Song 487,Ranbir Kapoor,Folk,Melancholic,Hindi
+Song 488,Jubin Nautiyal,Inspirational,Spiritual,Hindi
+Song 489,Badshah,Patriotic,Emotional,Hindi
+Song 490,Abhijeet,Inspirational,Happy,Hindi
+Song 491,Arijit Singh,Patriotic,Philosophical,Hindi
+Song 492,Kumar Sanu,Pop,Spiritual,Hindi
+Song 493,Tushar Raj,Pop,Energetic,Hindi
+Song 494,Malhar,Ghazal,Sad,Hindi
+Song 495,Shreya Ghoshal,Punjabi,Energetic,Hindi
+Song 496,Akshay Kumar,Punjabi,Philosophical,Hindi
+Song 497,Mukesh,Bollywood,Emotional,Hindi
+Song 498,Ek Villain,Inspirational,Emotional,Hindi
+Song 499,Deepika Padukone,Inspirational,Spiritual,Hindi
+Song 500,Neha Kakkar,Patriotic,Peaceful,Hindi
+Song 501,Guri,Ghazal,Melancholic,Hindi
+Song 502,Guri,Bollywood,Romantic,Hindi
+Song 503,Sonu Nigam,Bollywood,Happy,Hindi
+Song 504,Akshay Kumar,Patriotic,Emotional,Hindi
+Song 505,A.R. Rahman,Bollywood,Emotional,Hindi
+Song 506,Panjabi MC,Pop,Philosophical,Hindi
+Song 507,Akhil Sachdeva,Bollywood,Emotional,Hindi
+Song 508,Badshah,Devotional,Philosophical,Hindi
+Song 509,Pritam,Bollywood,Spiritual,Hindi
+Song 510,Kadir Ali,Inspirational,Philosophical,Hindi
+Song 511,Arijit Singh,Patriotic,Romantic,Hindi
+Song 512,Tushar Raj,Punjabi,Peaceful,Hindi
+Song 513,Kumar Sanu,Inspirational,Sad,Hindi
+Song 514,Guri,Sufi,Happy,Hindi
+Song 515,Sanjay Leela Bhansali,Devotional,Peaceful,Hindi
+Song 516,Atif Aslam,Bollywood,Energetic,Hindi
+Song 517,Rahat Fateh Ali Khan,Bollywood,Peaceful,Hindi
+Song 518,Sanjay Leela Bhansali,Ghazal,Sad,Hindi
+Song 519,Udit Narayan,Ghazal,Melancholic,Hindi
+Song 520,Ek Villain,Bollywood,Emotional,Hindi
+Song 521,Akhil Sachdeva,Folk,Peaceful,Hindi
+Song 522,Ek Villain,Folk,Emotional,Hindi
+Song 523,Akhil Sachdeva,Devotional,Melancholic,Hindi
+Song 524,Lata Mangeshkar,Sufi,Spiritual,Hindi
+Song 525,Jubin Nautiyal,Punjabi,Philosophical,Hindi
+Song 526,Jagjit Singh,Punjabi,Emotional,Hindi
+Song 527,Jagjit Singh,Ghazal,Spiritual,Hindi
+Song 528,Madhubala,Sufi,Peaceful,Hindi
+Song 529,Sanjay Leela Bhansali,Punjabi,Sad,Hindi
+Song 530,Akshay Kumar,Bollywood,Emotional,Hindi
+Song 531,Abhijeet,Bollywood,Energetic,Hindi
+Song 532,Madhubala,Punjabi,Energetic,Hindi
+Song 533,Jagjit Singh,Romantic,Happy,Hindi
+Song 534,Akhil Sachdeva,Devotional,Melancholic,Hindi
+Song 535,Mukesh,Inspirational,Romantic,Hindi
+Song 536,Atif Aslam,Devotional,Philosophical,Hindi
+Song 537,Panjabi MC,Ghazal,Romantic,Hindi
+Song 538,Abhijeet,Devotional,Melancholic,Hindi
+Song 539,Atif Aslam,Devotional,Melancholic,Hindi
+Song 540,Sidhu Moose Wala,Inspirational,Happy,Hindi
+Song 541,Daler Mehndi,Pop,Melancholic,Hindi
+Song 542,Kishore Kumar,Pop,Spiritual,Hindi
+Song 543,Sonu Nigam,Patriotic,Emotional,Hindi
+Song 544,Guri,Punjabi,Romantic,Hindi
+Song 545,Panjabi MC,Folk,Philosophical,Hindi
+Song 546,Kishore Kumar,Romantic,Spiritual,Hindi
+Song 547,Deepika Padukone,Devotional,Peaceful,Hindi
+Song 548,Asha Parekh,Romantic,Spiritual,Hindi
+Song 549,Panjabi MC,Bollywood,Emotional,Hindi
+Song 550,Sonu Nigam,Patriotic,Sad,Hindi
+Song 551,Tushar Raj,Folk,Philosophical,Hindi
+Song 552,Ek Villain,Bollywood,Sad,Hindi
+Song 553,Madhubala,Folk,Philosophical,Hindi
+Song 554,Sidhu Moose Wala,Folk,Emotional,Hindi
+Song 555,Neha Kakkar,Patriotic,Romantic,Hindi
+Song 556,Neha Kakkar,Folk,Emotional,Hindi
+Song 557,Kadir Ali,Sufi,Emotional,Hindi
+Song 558,B Praak,Romantic,Sad,Hindi
+Song 559,Jagjit Singh,Punjabi,Energetic,Hindi
+Song 560,Badshah,Romantic,Energetic,Hindi
+Song 561,Jagjit Singh,Patriotic,Peaceful,Hindi
+Song 562,Atif Aslam,Bollywood,Melancholic,Hindi
+Song 563,Madhubala,Romantic,Energetic,Hindi
+Song 564,Shreya Ghoshal,Romantic,Energetic,Hindi
+Song 565,Kadir Ali,Patriotic,Spiritual,Hindi
+Song 566,Malhar,Inspirational,Sad,Hindi
+Song 567,Kadir Ali,Bollywood,Philosophical,Hindi
+Song 568,Abhijeet,Folk,Energetic,Hindi
+Song 569,Udit Narayan,Pop,Sad,Hindi
+Song 570,Tushar Raj,Folk,Melancholic,Hindi
+Song 571,Rahat Fateh Ali Khan,Devotional,Happy,Hindi
+Song 572,Kadir Ali,Folk,Happy,Hindi
+Song 573,Guri,Bollywood,Philosophical,Hindi
+Song 574,A.R. Rahman,Ghazal,Peaceful,Hindi
+Song 575,Sidhu Moose Wala,Punjabi,Spiritual,Hindi
+Song 576,Kishore Kumar,Inspirational,Energetic,Hindi
+Song 577,Abhijeet,Inspirational,Melancholic,Hindi
+Song 578,Badshah,Punjabi,Happy,Hindi
+Song 579,Mukesh,Romantic,Romantic,Hindi
+Song 580,Hrithik Roshan,Sufi,Spiritual,Hindi
+Song 581,Sanjay Leela Bhansali,Romantic,Philosophical,Hindi
+Song 582,Pritam,Pop,Philosophical,Hindi
+Song 583,Rahat Fateh Ali Khan,Ghazal,Energetic,Hindi
+Song 584,Abhijeet,Pop,Sad,Hindi
+Song 585,Sonu Nigam,Sufi,Happy,Hindi
+Song 586,Rahat Fateh Ali Khan,Devotional,Romantic,Hindi
+Song 587,Pritam,Devotional,Energetic,Hindi
+Song 588,Jubin Nautiyal,Romantic,Sad,Hindi
+Song 589,Abhijeet,Bollywood,Sad,Hindi
+Song 590,Kumar Sanu,Sufi,Peaceful,Hindi
+Song 591,Sidhu Moose Wala,Bollywood,Melancholic,Hindi
+Song 592,Abhijeet,Bollywood,Spiritual,Hindi
+Song 593,Neha Kakkar,Patriotic,Romantic,Hindi
+Song 594,Mukesh,Ghazal,Sad,Hindi
+Song 595,Sanjay Leela Bhansali,Inspirational,Energetic,Hindi
+Song 596,Panjabi MC,Ghazal,Emotional,Hindi
+Song 597,Ranbir Kapoor,Patriotic,Spiritual,Hindi
+Song 598,Deepika Padukone,Romantic,Sad,Hindi
+Song 599,B Praak,Ghazal,Spiritual,Hindi
+Song 600,Sanjay Leela Bhansali,Punjabi,Happy,Hindi
+Song 601,Neha Kakkar,Punjabi,Energetic,Hindi
+Song 602,Hrithik Roshan,Inspirational,Emotional,Hindi
+Song 603,B Praak,Bollywood,Happy,Hindi
+Song 604,Abhijeet,Folk,Happy,Hindi
+Song 605,B Praak,Folk,Energetic,Hindi
+Song 606,Madhubala,Sufi,Spiritual,Hindi
+Song 607,Sidhu Moose Wala,Folk,Romantic,Hindi
+Song 608,Kumar Sanu,Inspirational,Sad,Hindi
+Song 609,Daler Mehndi,Sufi,Peaceful,Hindi
+Song 610,Akshay Kumar,Romantic,Peaceful,Hindi
+Song 611,Mohammed Rafi,Punjabi,Spiritual,Hindi
+Song 612,Akhil Sachdeva,Inspirational,Spiritual,Hindi
+Song 613,Mukesh,Punjabi,Emotional,Hindi
+Song 614,Neha Kakkar,Romantic,Spiritual,Hindi
+Song 615,Abhijeet,Romantic,Peaceful,Hindi
+Song 616,Hrithik Roshan,Patriotic,Peaceful,Hindi
+Song 617,Jubin Nautiyal,Sufi,Sad,Hindi
+Song 618,Neha Kakkar,Patriotic,Romantic,Hindi
+Song 619,Arijit Singh,Romantic,Emotional,Hindi
+Song 620,Ek Villain,Bollywood,Philosophical,Hindi
+Song 621,Rahat Fateh Ali Khan,Patriotic,Spiritual,Hindi
+Song 622,B Praak,Devotional,Spiritual,Hindi
+Song 623,Sanjay Leela Bhansali,Devotional,Emotional,Hindi
+Song 624,Neha Kakkar,Punjabi,Philosophical,Hindi
+Song 625,Malhar,Devotional,Happy,Hindi
+Song 626,Arijit Singh,Punjabi,Philosophical,Hindi
+Song 627,Badshah,Ghazal,Romantic,Hindi
+Song 628,B Praak,Inspirational,Peaceful,Hindi
+Song 629,B Praak,Punjabi,Philosophical,Hindi
+Song 630,Neha Kakkar,Inspirational,Sad,Hindi
+Song 631,Atif Aslam,Pop,Peaceful,Hindi
+Song 632,Ranbir Kapoor,Patriotic,Happy,Hindi
+Song 633,Jagjit Singh,Inspirational,Romantic,Hindi
+Song 634,Sidhu Moose Wala,Folk,Spiritual,Hindi
+Song 635,Lata Mangeshkar,Bollywood,Happy,Hindi
+Song 636,Arijit Singh,Punjabi,Energetic,Hindi
+Song 637,Udit Narayan,Devotional,Happy,Hindi
+Song 638,Udit Narayan,Punjabi,Happy,Hindi
+Song 639,B Praak,Bollywood,Sad,Hindi
+Song 640,Atif Aslam,Pop,Sad,Hindi
+Song 641,Udit Narayan,Pop,Emotional,Hindi
+Song 642,A.R. Rahman,Patriotic,Spiritual,Hindi
+Song 643,Malhar,Punjabi,Sad,Hindi
+Song 644,Guri,Inspirational,Philosophical,Hindi
+Song 645,Sanjay Leela Bhansali,Punjabi,Romantic,Hindi
+Song 646,Atif Aslam,Romantic,Melancholic,Hindi
+Song 647,Mohammed Rafi,Pop,Romantic,Hindi
+Song 648,Mohammed Rafi,Ghazal,Emotional,Hindi
+Song 649,Jubin Nautiyal,Romantic,Energetic,Hindi
+Song 650,Asha Parekh,Bollywood,Sad,Hindi
+Song 651,Badshah,Ghazal,Melancholic,Hindi
+Song 652,B Praak,Sufi,Melancholic,Hindi
+Song 653,Jubin Nautiyal,Folk,Spiritual,Hindi
+Song 654,Kumar Sanu,Romantic,Spiritual,Hindi
+Song 655,Akshay Kumar,Devotional,Peaceful,Hindi
+Song 656,Pritam,Pop,Sad,Hindi
+Song 657,Jubin Nautiyal,Patriotic,Happy,Hindi
+Song 658,Jubin Nautiyal,Devotional,Melancholic,Hindi
+Song 659,Abhijeet,Inspirational,Peaceful,Hindi
+Song 660,Asha Parekh,Punjabi,Energetic,Hindi
+Song 661,B Praak,Inspirational,Philosophical,Hindi
+Song 662,Hrithik Roshan,Sufi,Happy,Hindi
+Song 663,Shreya Ghoshal,Romantic,Peaceful,Hindi
+Song 664,Jagjit Singh,Sufi,Emotional,Hindi
+Song 665,Madhubala,Inspirational,Sad,Hindi
+Song 666,Deepika Padukone,Pop,Sad,Hindi
+Song 667,Kadir Ali,Inspirational,Spiritual,Hindi
+Song 668,Hrithik Roshan,Folk,Happy,Hindi
+Song 669,Guri,Inspirational,Spiritual,Hindi
+Song 670,Neha Kakkar,Pop,Happy,Hindi
+Song 671,Jagjit Singh,Pop,Energetic,Hindi
+Song 672,Rahat Fateh Ali Khan,Patriotic,Energetic,Hindi
+Song 673,Rahat Fateh Ali Khan,Romantic,Sad,Hindi
+Song 674,Ranbir Kapoor,Devotional,Sad,Hindi
+Song 675,Ash King,Devotional,Energetic,Hindi
+Song 676,Sidhu Moose Wala,Bollywood,Philosophical,Hindi
+Song 677,Arijit Singh,Ghazal,Spiritual,Hindi
+Song 678,Ek Villain,Patriotic,Energetic,Hindi
+Song 679,Tushar Raj,Sufi,Energetic,Hindi
+Song 680,Sidhu Moose Wala,Romantic,Spiritual,Hindi
+Song 681,Sidhu Moose Wala,Patriotic,Peaceful,Hindi
+Song 682,Neha Kakkar,Folk,Romantic,Hindi
+Song 683,Jagjit Singh,Punjabi,Emotional,Hindi
+Song 684,Tushar Raj,Ghazal,Philosophical,Hindi
+Song 685,Akshay Kumar,Romantic,Energetic,Hindi
+Song 686,Pritam,Punjabi,Energetic,Hindi
+Song 687,Rahat Fateh Ali Khan,Devotional,Energetic,Hindi
+Song 688,Daler Mehndi,Inspirational,Spiritual,Hindi
+Song 689,Deepika Padukone,Pop,Peaceful,Hindi
+Song 690,Pritam,Folk,Happy,Hindi
+Song 691,Ek Villain,Ghazal,Philosophical,Hindi
+Song 692,Hrithik Roshan,Patriotic,Happy,Hindi
+Song 693,Abhijeet,Devotional,Spiritual,Hindi
+Song 694,Badshah,Folk,Philosophical,Hindi
+Song 695,Rahat Fateh Ali Khan,Patriotic,Energetic,Hindi
+Song 696,Daler Mehndi,Sufi,Melancholic,Hindi
+Song 697,Sanjay Leela Bhansali,Patriotic,Spiritual,Hindi
+Song 698,Abhijeet,Romantic,Sad,Hindi
+Song 699,Panjabi MC,Patriotic,Sad,Hindi
+Song 700,Ranbir Kapoor,Sufi,Energetic,Hindi
+Song 701,Kishore Kumar,Ghazal,Spiritual,Hindi
+Song 702,Udit Narayan,Devotional,Happy,Hindi
+Song 703,Guri,Inspirational,Sad,Hindi
+Song 704,Sidhu Moose Wala,Romantic,Romantic,Hindi
+Song 705,Atif Aslam,Punjabi,Emotional,Hindi
+Song 706,Kadir Ali,Sufi,Philosophical,Hindi
+Song 707,Asha Parekh,Inspirational,Emotional,Hindi
+Song 708,Lata Mangeshkar,Devotional,Happy,Hindi
+Song 709,B Praak,Patriotic,Melancholic,Hindi
+Song 710,A.R. Rahman,Punjabi,Emotional,Hindi
+Song 711,Ash King,Inspirational,Happy,Hindi
+Song 712,Akhil Sachdeva,Patriotic,Energetic,Hindi
+Song 713,Badshah,Inspirational,Emotional,Hindi
+Song 714,Ranbir Kapoor,Sufi,Emotional,Hindi
+Song 715,Shreya Ghoshal,Pop,Happy,Hindi
+Song 716,Arijit Singh,Romantic,Spiritual,Hindi
+Song 717,Udit Narayan,Ghazal,Energetic,Hindi
+Song 718,Asha Parekh,Bollywood,Energetic,Hindi
+Song 719,Badshah,Ghazal,Melancholic,Hindi
+Song 720,Sidhu Moose Wala,Pop,Romantic,Hindi
+Song 721,Atif Aslam,Punjabi,Sad,Hindi
+Song 722,Panjabi MC,Patriotic,Melancholic,Hindi
+Song 723,Sanjay Leela Bhansali,Romantic,Happy,Hindi
+Song 724,Panjabi MC,Inspirational,Peaceful,Hindi
+Song 725,Kishore Kumar,Ghazal,Energetic,Hindi
+Song 726,Kadir Ali,Romantic,Philosophical,Hindi
+Song 727,Pritam,Folk,Peaceful,Hindi
+Song 728,Mukesh,Folk,Emotional,Hindi
+Song 729,Guri,Devotional,Spiritual,Hindi
+Song 730,Daler Mehndi,Punjabi,Melancholic,Hindi
+Song 731,Rahat Fateh Ali Khan,Pop,Sad,Hindi
+Song 732,Neha Kakkar,Pop,Spiritual,Hindi
+Song 733,B Praak,Inspirational,Emotional,Hindi
+Song 734,Kumar Sanu,Romantic,Emotional,Hindi
+Song 735,Ranbir Kapoor,Patriotic,Energetic,Hindi
+Song 736,Shreya Ghoshal,Punjabi,Energetic,Hindi
+Song 737,Ash King,Punjabi,Emotional,Hindi
+Song 738,Jubin Nautiyal,Punjabi,Happy,Hindi
+Song 739,Neha Kakkar,Patriotic,Philosophical,Hindi
+Song 740,Ash King,Bollywood,Sad,Hindi
+Song 741,Pritam,Devotional,Philosophical,Hindi
+Song 742,Ek Villain,Ghazal,Philosophical,Hindi
+Song 743,Neha Kakkar,Patriotic,Philosophical,Hindi
+Song 744,Tushar Raj,Inspirational,Spiritual,Hindi
+Song 745,Lata Mangeshkar,Pop,Romantic,Hindi
+Song 746,Atif Aslam,Ghazal,Sad,Hindi
+Song 747,Sanjay Leela Bhansali,Patriotic,Energetic,Hindi
+Song 748,Asha Parekh,Patriotic,Sad,Hindi
+Song 749,Atif Aslam,Romantic,Happy,Hindi
+Song 750,Badshah,Folk,Peaceful,Hindi
+Song 751,Lata Mangeshkar,Bollywood,Melancholic,Hindi
+Song 752,Panjabi MC,Bollywood,Emotional,Hindi
+Song 753,Panjabi MC,Punjabi,Emotional,Hindi
+Song 754,Sonu Nigam,Inspirational,Happy,Hindi
+Song 755,Abhijeet,Punjabi,Philosophical,Hindi
+Song 756,Rahat Fateh Ali Khan,Romantic,Emotional,Hindi
+Song 757,Akhil Sachdeva,Devotional,Philosophical,Hindi
+Song 758,Tushar Raj,Punjabi,Melancholic,Hindi
+Song 759,Sanjay Leela Bhansali,Devotional,Energetic,Hindi
+Song 760,Deepika Padukone,Sufi,Energetic,Hindi
+Song 761,Kishore Kumar,Punjabi,Emotional,Hindi
+Song 762,Madhubala,Bollywood,Sad,Hindi
+Song 763,Lata Mangeshkar,Romantic,Melancholic,Hindi
+Song 764,Daler Mehndi,Folk,Happy,Hindi
+Song 765,Jubin Nautiyal,Bollywood,Energetic,Hindi
+Song 766,Panjabi MC,Folk,Emotional,Hindi
+Song 767,Jubin Nautiyal,Inspirational,Energetic,Hindi
+Song 768,Mohammed Rafi,Patriotic,Romantic,Hindi
+Song 769,Jubin Nautiyal,Inspirational,Romantic,Hindi
+Song 770,Guri,Sufi,Energetic,Hindi
+Song 771,A.R. Rahman,Patriotic,Spiritual,Hindi
+Song 772,B Praak,Punjabi,Peaceful,Hindi
+Song 773,Jubin Nautiyal,Romantic,Melancholic,Hindi
+Song 774,Kadir Ali,Ghazal,Philosophical,Hindi
+Song 775,Hrithik Roshan,Punjabi,Melancholic,Hindi
+Song 776,Akshay Kumar,Patriotic,Peaceful,Hindi
+Song 777,Lata Mangeshkar,Folk,Happy,Hindi
+Song 778,Akshay Kumar,Devotional,Philosophical,Hindi
+Song 779,Lata Mangeshkar,Sufi,Happy,Hindi
+Song 780,Ek Villain,Punjabi,Happy,Hindi
+Song 781,Daler Mehndi,Sufi,Peaceful,Hindi
+Song 782,Akshay Kumar,Sufi,Happy,Hindi
+Song 783,Jagjit Singh,Ghazal,Spiritual,Hindi
+Song 784,Jubin Nautiyal,Romantic,Happy,Hindi
+Song 785,Kishore Kumar,Romantic,Romantic,Hindi
+Song 786,Neha Kakkar,Sufi,Philosophical,Hindi
+Song 787,Mohammed Rafi,Pop,Spiritual,Hindi
+Song 788,Ranbir Kapoor,Devotional,Energetic,Hindi
+Song 789,Badshah,Devotional,Spiritual,Hindi
+Song 790,Sanjay Leela Bhansali,Sufi,Sad,Hindi
+Song 791,Arijit Singh,Punjabi,Sad,Hindi
+Song 792,Kishore Kumar,Pop,Romantic,Hindi
+Song 793,Kadir Ali,Patriotic,Philosophical,Hindi
+Song 794,Guri,Sufi,Energetic,Hindi
+Song 795,Atif Aslam,Devotional,Sad,Hindi
+Song 796,Ranbir Kapoor,Pop,Happy,Hindi
+Song 797,Kadir Ali,Bollywood,Happy,Hindi
+Song 798,Malhar,Ghazal,Philosophical,Hindi
+Song 799,Mukesh,Romantic,Emotional,Hindi
+Song 800,B Praak,Devotional,Romantic,Hindi
+Song 801,Kishore Kumar,Sufi,Energetic,Hindi
+Song 802,Rahat Fateh Ali Khan,Ghazal,Spiritual,Hindi
+Song 803,Ek Villain,Inspirational,Melancholic,Hindi
+Song 804,Udit Narayan,Folk,Philosophical,Hindi
+Song 805,Akshay Kumar,Inspirational,Spiritual,Hindi
+Song 806,Mukesh,Devotional,Melancholic,Hindi
+Song 807,Pritam,Patriotic,Happy,Hindi
+Song 808,Ash King,Patriotic,Romantic,Hindi
+Song 809,Pritam,Folk,Sad,Hindi
+Song 810,Daler Mehndi,Sufi,Romantic,Hindi
+Song 811,Shreya Ghoshal,Sufi,Philosophical,Hindi
+Song 812,Neha Kakkar,Sufi,Romantic,Hindi
+Song 813,Daler Mehndi,Romantic,Romantic,Hindi
+Song 814,Rahat Fateh Ali Khan,Pop,Energetic,Hindi
+Song 815,Akhil Sachdeva,Folk,Romantic,Hindi
+Song 816,Ek Villain,Patriotic,Romantic,Hindi
+Song 817,Deepika Padukone,Sufi,Emotional,Hindi
+Song 818,Guri,Bollywood,Spiritual,Hindi
+Song 819,Deepika Padukone,Pop,Romantic,Hindi
+Song 820,Tushar Raj,Punjabi,Philosophical,Hindi
+Song 821,Jubin Nautiyal,Romantic,Philosophical,Hindi
+Song 822,Badshah,Patriotic,Energetic,Hindi
+Song 823,Ek Villain,Devotional,Peaceful,Hindi
+Song 824,Kumar Sanu,Punjabi,Emotional,Hindi
+Song 825,Ash King,Bollywood,Emotional,Hindi
+Song 826,Kadir Ali,Devotional,Peaceful,Hindi
+Song 827,Neha Kakkar,Patriotic,Romantic,Hindi
+Song 828,Atif Aslam,Devotional,Peaceful,Hindi
+Song 829,Jubin Nautiyal,Devotional,Sad,Hindi
+Song 830,Pritam,Sufi,Sad,Hindi
+Song 831,Lata Mangeshkar,Pop,Happy,Hindi
+Song 832,Kishore Kumar,Romantic,Sad,Hindi
+Song 833,Guri,Sufi,Happy,Hindi
+Song 834,Akhil Sachdeva,Inspirational,Happy,Hindi
+Song 835,Kishore Kumar,Sufi,Sad,Hindi
+Song 836,Guri,Romantic,Energetic,Hindi
+Song 837,Madhubala,Ghazal,Energetic,Hindi
+Song 838,Sonu Nigam,Ghazal,Peaceful,Hindi
+Song 839,Jubin Nautiyal,Bollywood,Melancholic,Hindi
+Song 840,Udit Narayan,Sufi,Sad,Hindi
+Song 841,Sidhu Moose Wala,Bollywood,Emotional,Hindi
+Song 842,Sanjay Leela Bhansali,Bollywood,Melancholic,Hindi
+Song 843,Sidhu Moose Wala,Ghazal,Romantic,Hindi
+Song 844,Neha Kakkar,Folk,Sad,Hindi
+Song 845,Panjabi MC,Romantic,Sad,Hindi
+Song 846,Arijit Singh,Inspirational,Energetic,Hindi
+Song 847,Jagjit Singh,Romantic,Energetic,Hindi
+Song 848,Mohammed Rafi,Sufi,Sad,Hindi
+Song 849,Ek Villain,Ghazal,Happy,Hindi
+Song 850,Rahat Fateh Ali Khan,Romantic,Spiritual,Hindi
+Song 851,Lata Mangeshkar,Bollywood,Philosophical,Hindi
+Song 852,Atif Aslam,Pop,Energetic,Hindi
+Song 853,Sanjay Leela Bhansali,Ghazal,Emotional,Hindi
+Song 854,Malhar,Inspirational,Sad,Hindi
+Song 855,Guri,Pop,Spiritual,Hindi
+Song 856,Mukesh,Bollywood,Sad,Hindi
+Song 857,Sanjay Leela Bhansali,Patriotic,Sad,Hindi
+Song 858,Mukesh,Devotional,Happy,Hindi
+Song 859,Pritam,Devotional,Spiritual,Hindi
+Song 860,Malhar,Inspirational,Happy,Hindi
+Song 861,Sidhu Moose Wala,Punjabi,Philosophical,Hindi
+Song 862,Rahat Fateh Ali Khan,Folk,Romantic,Hindi
+Song 863,B Praak,Bollywood,Emotional,Hindi
+Song 864,Akshay Kumar,Sufi,Romantic,Hindi
+Song 865,Kadir Ali,Folk,Melancholic,Hindi
+Song 866,Sonu Nigam,Romantic,Sad,Hindi
+Song 867,Atif Aslam,Patriotic,Happy,Hindi
+Song 868,Jubin Nautiyal,Folk,Philosophical,Hindi
+Song 869,Guri,Pop,Spiritual,Hindi
+Song 870,Kadir Ali,Pop,Emotional,Hindi
+Song 871,Asha Parekh,Punjabi,Peaceful,Hindi
+Song 872,Jagjit Singh,Bollywood,Peaceful,Hindi
+Song 873,Hrithik Roshan,Pop,Philosophical,Hindi
+Song 874,Akshay Kumar,Punjabi,Melancholic,Hindi
+Song 875,Mohammed Rafi,Patriotic,Spiritual,Hindi
+Song 876,Daler Mehndi,Sufi,Spiritual,Hindi
+Song 877,Neha Kakkar,Folk,Melancholic,Hindi
+Song 878,Mohammed Rafi,Patriotic,Spiritual,Hindi
+Song 879,Hrithik Roshan,Folk,Happy,Hindi
+Song 880,Kishore Kumar,Ghazal,Happy,Hindi
+Song 881,Asha Parekh,Inspirational,Peaceful,Hindi
+Song 882,Jagjit Singh,Sufi,Emotional,Hindi
+Song 883,B Praak,Romantic,Peaceful,Hindi
+Song 884,Badshah,Sufi,Peaceful,Hindi
+Song 885,Guri,Folk,Philosophical,Hindi
+Song 886,Panjabi MC,Bollywood,Emotional,Hindi
+Song 887,Sonu Nigam,Bollywood,Romantic,Hindi
+Song 888,Abhijeet,Sufi,Energetic,Hindi
+Song 889,Sanjay Leela Bhansali,Devotional,Spiritual,Hindi
+Song 890,Jubin Nautiyal,Devotional,Philosophical,Hindi
+Song 891,Madhubala,Devotional,Energetic,Hindi
+Song 892,Ash King,Ghazal,Philosophical,Hindi
+Song 893,Ek Villain,Devotional,Emotional,Hindi
+Song 894,Badshah,Folk,Philosophical,Hindi
+Song 895,Malhar,Bollywood,Happy,Hindi
+Song 896,Kishore Kumar,Punjabi,Emotional,Hindi
+Song 897,Sonu Nigam,Bollywood,Melancholic,Hindi
+Song 898,Mohammed Rafi,Devotional,Emotional,Hindi
+Song 899,Kadir Ali,Ghazal,Philosophical,Hindi
+Song 900,Neha Kakkar,Pop,Philosophical,Hindi
+Song 901,Ranbir Kapoor,Bollywood,Happy,Hindi
+Song 902,Hrithik Roshan,Inspirational,Peaceful,Hindi
+Song 903,Kishore Kumar,Devotional,Melancholic,Hindi
+Song 904,Udit Narayan,Patriotic,Happy,Hindi
+Song 905,A.R. Rahman,Bollywood,Emotional,Hindi
+Song 906,Sidhu Moose Wala,Ghazal,Emotional,Hindi
+Song 907,Deepika Padukone,Devotional,Peaceful,Hindi
+Song 908,Jagjit Singh,Patriotic,Spiritual,Hindi
+Song 909,Mohammed Rafi,Ghazal,Peaceful,Hindi
+Song 910,Guri,Romantic,Energetic,Hindi
+Song 911,Malhar,Pop,Energetic,Hindi
+Song 912,Ash King,Inspirational,Spiritual,Hindi
+Song 913,Jubin Nautiyal,Devotional,Spiritual,Hindi
+Song 914,Udit Narayan,Sufi,Melancholic,Hindi
+Song 915,Jubin Nautiyal,Devotional,Happy,Hindi
+Song 916,Panjabi MC,Folk,Happy,Hindi
+Song 917,Akshay Kumar,Devotional,Romantic,Hindi
+Song 918,Akshay Kumar,Punjabi,Philosophical,Hindi
+Song 919,Atif Aslam,Pop,Sad,Hindi
+Song 920,B Praak,Patriotic,Sad,Hindi
+Song 921,Neha Kakkar,Punjabi,Happy,Hindi
+Song 922,Kadir Ali,Patriotic,Philosophical,Hindi
+Song 923,Rahat Fateh Ali Khan,Folk,Energetic,Hindi
+Song 924,Jagjit Singh,Folk,Romantic,Hindi
+Song 925,Atif Aslam,Pop,Philosophical,Hindi
+Song 926,Guri,Inspirational,Sad,Hindi
+Song 927,Akhil Sachdeva,Ghazal,Melancholic,Hindi
+Song 928,Abhijeet,Sufi,Spiritual,Hindi
+Song 929,Lata Mangeshkar,Ghazal,Peaceful,Hindi
+Song 930,Mukesh,Ghazal,Melancholic,Hindi
+Song 931,Madhubala,Patriotic,Sad,Hindi
+Song 932,Arijit Singh,Folk,Emotional,Hindi
+Song 933,Ranbir Kapoor,Inspirational,Energetic,Hindi
+Song 934,Rahat Fateh Ali Khan,Patriotic,Romantic,Hindi
+Song 935,Mukesh,Patriotic,Happy,Hindi
+Song 936,Sanjay Leela Bhansali,Ghazal,Romantic,Hindi
+Song 937,Jagjit Singh,Patriotic,Emotional,Hindi
+Song 938,Lata Mangeshkar,Inspirational,Philosophical,Hindi
+Song 939,Kumar Sanu,Folk,Spiritual,Hindi
+Song 940,Asha Parekh,Patriotic,Emotional,Hindi
+Song 941,Ash King,Punjabi,Melancholic,Hindi
+Song 942,Pritam,Punjabi,Romantic,Hindi
+Song 943,Sanjay Leela Bhansali,Inspirational,Romantic,Hindi
+Song 944,Guri,Folk,Spiritual,Hindi
+Song 945,Panjabi MC,Romantic,Energetic,Hindi
+Song 946,Rahat Fateh Ali Khan,Devotional,Emotional,Hindi
+Song 947,Malhar,Folk,Sad,Hindi
+Song 948,Guri,Pop,Philosophical,Hindi
+Song 949,Hrithik Roshan,Ghazal,Sad,Hindi
+Song 950,Arijit Singh,Bollywood,Melancholic,Hindi
